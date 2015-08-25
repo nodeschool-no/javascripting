@@ -28,7 +28,7 @@ I filen skal du lage en variabel med navn `example`.
 
 Til å skrive ut lengden på strengen til skjermen kan du bruke `console.log`.
 
-**Se om programmet ditt er riktig ved å kjøre denneCheck to see if your program is correct by running this command:**
+**Se om programmet ditt er riktig ved å kjøre denne:**
 
 `javascripting verify string-length.js`
 
